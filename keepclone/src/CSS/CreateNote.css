@@ -1,0 +1,17 @@
+
+
+form{
+    border: 5px solid lightgray;
+    background-color: aqua;
+    width: 300px;
+    padding:10px;
+}
+
+ #btn{
+    float: right;
+}
+
+form:hover{
+    border: 2px solid red;
+}
+ 
